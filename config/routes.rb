@@ -13,6 +13,7 @@ Rails.application.routes.draw do
       get :followings
       get :followers
       get :fav_posts
+  
     end
     
   
